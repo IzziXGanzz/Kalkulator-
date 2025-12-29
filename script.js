@@ -19,8 +19,7 @@ function calculate() {
     }
 }
 
-
 function clearDisplay() {
-    const display =document.getElementById('display');
+    const display = document.getElementById('display');
     display.value = '';
 }
